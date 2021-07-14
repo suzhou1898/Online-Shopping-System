@@ -8,5 +8,7 @@ public class yes {
 
 
         System.out.println("what");
+
+        System.out.println("say");
     }
 }

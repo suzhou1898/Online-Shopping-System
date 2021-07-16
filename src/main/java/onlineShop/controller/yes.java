@@ -11,6 +11,7 @@ public class yes {
 
         System.out.println("say");
 
-        System.out.println("bu123");
+
+        System.out.println("bu456");
     }
 }

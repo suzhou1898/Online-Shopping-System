@@ -10,5 +10,7 @@ public class yes {
         System.out.println("what");
 
         System.out.println("say");
+
+        System.out.println("bu");
     }
 }
